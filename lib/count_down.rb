@@ -5,4 +5,5 @@ while count <= 10 && count > 0 do
   count -= 1
   if count == 1  
     puts "Happpy New Year!"
+  end
   
